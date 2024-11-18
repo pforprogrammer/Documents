@@ -1,4 +1,4 @@
-Alright! Let’s start with some **basic file commands** in Linux. I’ll keep things super simple and give you examples, just like explaining to a 10-year-old. Think of these commands as magic words you type into your Ubuntu terminal to tell the computer what to do with files and folders. I’ll also include the flags (special options) you can use with each command to make them even more powerful!
+
 
 ### 1. **`ls` (List Files and Directories)**
 This command shows you what’s inside a folder (directory).
